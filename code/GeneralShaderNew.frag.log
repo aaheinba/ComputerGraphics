@@ -1,0 +1,7 @@
+0:89(27): error: type mismatch
+0:89(16): error: no matching function for call to `normalize(error)'; candidates are:
+0:89(16): error:    float normalize(float)
+0:89(16): error:    vec2 normalize(vec2)
+0:89(16): error:    vec3 normalize(vec3)
+0:89(16): error:    vec4 normalize(vec4)
+
